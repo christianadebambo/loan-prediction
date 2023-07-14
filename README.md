@@ -1,4 +1,4 @@
-# Loan Predicition
+# Loan Prediction
 
 Predict loan eligibility using a trained + calibrated Random Forest Classifier
 
